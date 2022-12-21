@@ -1,43 +1,14 @@
-# Vite, React, Typescript (Single Page App)
+# Quill Editor
 
-![Vite, React, Typescript](https://user-images.githubusercontent.com/102081703/179606868-c33e34c7-c8da-47ac-9ad4-dbe462570984.png)
+TinyMce like editor powered by [quill](https://quilljs.com).
 
-## Features
+[![Go to page](https://user-images.githubusercontent.com/102081703/209015732-143595aa-975d-4aff-9207-e2e5317c485a.png)](https://dilanluna.github.io/quill-editor)
 
-- [Vite](https://vitejs.dev) + [React](https://reactjs.org) + [Typescript](https://www.typescriptlang.org)
-- Automaticaly format code on commit powered by [prettier](https://prettier.io), [husky](https://typicode.github.io/husky) and [lint-staged](https://github.com/okonet/lint-staged)
-- Preconfigured test environment with [vitest](https://vitest.dev) and [testing library](https://testing-library.com)
+## TODO
 
-## Getting Started
-
-Use this repository as template.
-
-Install all dependencies running.
-
-```bash
-$ npm install
-```
-
-Start project in development mode.
-
-```bash
-$ npm run dev
-```
-
-Build your project.
-
-```bash
-$ npm run build
-```
-
-Or preview your production build.
-
-```bash
-$ npm run preview
-```
-
-Run tests.
-
-```bash
-$ npm run test
-```
+- [ ] Insert video
+- [ ] Align list selector
+- [ ] Blockquote styles
+- [ ] Fix color list
+- [ ] Make resize button dragable
+- [ ] Fix html view overflow

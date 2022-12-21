@@ -5,11 +5,6 @@ import icons from '../ui/icons';
 import resizeIcon from '../assets/icons/resize.svg?raw';
 import dropdownIcon from '../assets/icons/dropdown.svg?raw';
 
-// TODO
-// insert video
-// align list
-// blockquote styles
-
 const TOOLBAR_CONFIG = [
   [{ header: [1, 2, 3, 4, 5, 6] }],
   ['bold', 'italic', 'formula'],
